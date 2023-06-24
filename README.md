@@ -1,2 +1,3 @@
 # MY-CV
-This is my first CV.
+I am Junior.
+Welcome to my github
